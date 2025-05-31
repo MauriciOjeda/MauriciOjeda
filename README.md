@@ -15,7 +15,7 @@
 
 <h4>Contactate conmigo:</h4>
 
-<a href="https://www.linkedin.com/in/josejuliosanchezcruzado/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 40px; height: 40px; margin: 0 10px;" /></a>
+<a href="https://www.linkedin.com/in/dayronmauricioojedagutierrez/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 40px; height: 40px; margin: 0 10px;" /></a>
 
 <h4>Lenguajes de Programación y aplicaciones que uso:</h4>
 <p align="left">
