@@ -19,7 +19,6 @@
 
 <h4>Lenguajes de Programación y aplicaciones que uso:</h4>
 <p align="left">
-  <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 40px; height: 40px; margin: 0 10px;" /></a>
   <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 40px; height: 40px; margin: 0 10px;" /></a>
   <a href="https://es.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px; height: 40px; margin: 0 10px;" /></a>
   <a href="https://es.wikipedia.org/wiki/Kotlin_(lenguaje_de_programaci%C3%B3n)" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width: 40px; height: 40px; margin: 0 10px;" /></a>
@@ -53,4 +52,5 @@
   <a href="https://es.wikipedia.org/wiki/Python" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 40px; height: 40px; margin: 0 10px;" /></a>
   <a href="https://es.wikipedia.org/wiki/Arduino" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 40px; height: 40px; margin: 0 10px;" /></a>
   <a href="https://es.wikipedia.org/wiki/Docker_(software)" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 40px; height: 40px; margin: 0 10px;" /></a>
+  <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 40px; height: 40px; margin: 0 10px;" /></a>
 </p>
